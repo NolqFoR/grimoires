@@ -1,0 +1,44 @@
+local args = {
+    [1] = "4KLIKES"
+}
+local args1 = {
+    [1] = "5KLIKES"
+}
+local args2 = {
+    [1] = "GHOKSZIN"
+}
+local args3 = {
+    [1] = "10KPLAYERS"
+}
+local args4 = {
+    [1] = "GUIZERAYT"
+}
+local args5 = {
+    [1] = "MEDTW"
+}
+local args6 = {
+    [1] = "GGGAMES"
+}
+local args7 = {
+    [1] = "3KPLAYERS"
+}
+local args8 = {
+    [1] = "4KPLAYERS"
+}
+local args9 = {
+    [1] = "5KPLAYERS"
+}
+local args10 = {
+    [1] = "300KVISITS"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("Functions"):WaitForChild("Code"):InvokeServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Functions"):WaitForChild("Code"):InvokeServer(unpack(args1))
+game:GetService("ReplicatedStorage"):WaitForChild("Functions"):WaitForChild("Code"):InvokeServer(unpack(args2))
+game:GetService("ReplicatedStorage"):WaitForChild("Functions"):WaitForChild("Code"):InvokeServer(unpack(args3))
+game:GetService("ReplicatedStorage"):WaitForChild("Functions"):WaitForChild("Code"):InvokeServer(unpack(args4))
+game:GetService("ReplicatedStorage"):WaitForChild("Functions"):WaitForChild("Code"):InvokeServer(unpack(args5))
+game:GetService("ReplicatedStorage"):WaitForChild("Functions"):WaitForChild("Code"):InvokeServer(unpack(args6))
+game:GetService("ReplicatedStorage"):WaitForChild("Functions"):WaitForChild("Code"):InvokeServer(unpack(args7))
+game:GetService("ReplicatedStorage"):WaitForChild("Functions"):WaitForChild("Code"):InvokeServer(unpack(args8))
+game:GetService("ReplicatedStorage"):WaitForChild("Functions"):WaitForChild("Code"):InvokeServer(unpack(args9))
+game:GetService("ReplicatedStorage"):WaitForChild("Functions"):WaitForChild("Code"):InvokeServer(unpack(args10))
